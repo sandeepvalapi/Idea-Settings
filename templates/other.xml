@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="log" value="private static final org.apache.logging.log4j.Logger LOG = org.apache.logging.log4j.LogManager.getLogger($CLASS_NAME$.class);$END$" description="creates Logger statement for the class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
