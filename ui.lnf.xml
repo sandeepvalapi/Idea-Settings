@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="500" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="RECENT_FILES_LIMIT" value="100" />
+    <option name="RECENT_LOCATIONS_LIMIT" value="50" />
+  </component>
+</application>
