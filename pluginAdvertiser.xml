@@ -343,6 +343,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fxs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.idea.plugin.sap.commerce" />
+              <option name="myPluginName" value="com.intellij.idea.plugin.sap.commerce" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gant">
           <value>
             <plugin>
@@ -507,6 +515,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.impex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.idea.plugin.sap.commerce" />
+              <option name="myPluginName" value="com.intellij.idea.plugin.sap.commerce" />
             </plugin>
           </value>
         </entry>
