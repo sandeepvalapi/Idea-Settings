@@ -132,11 +132,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Quarkus">
-                    <value>
-                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus Tools" pluginId="com.redhat.devtools.intellij.quarkus" />
-                    </value>
-                  </entry>
                   <entry key="android">
                     <value>
                       <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
@@ -177,11 +172,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="apk">
-                    <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="jar">
                     <value>
                       <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
